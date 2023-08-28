@@ -8,7 +8,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/login" exact element={<LoginForm/>} />
+        <Route path="/" exact element={<LoginForm/>} />
         <Route path="/register" exact element={<RegistrationForm/>} />
       </Routes>
     </Router>
