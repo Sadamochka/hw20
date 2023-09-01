@@ -65,7 +65,7 @@ const LoginForm = () => {
         Login
       </Button>
       <br />
-      <Link to="/register">Register</Link>
+      <Link to="/hw20/register">Register</Link>
     </div>
   );
 };

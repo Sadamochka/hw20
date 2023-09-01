@@ -80,7 +80,7 @@ const RegistrationForm = () => {
         Register
       </Button>
       <br />
-      <Link to="/">Login</Link>
+      <Link to="/hw20">Login</Link>
     </div>
   );
 };
